@@ -67,9 +67,13 @@ cromptails-1/
 <img width="1698" height="989" alt="image" src="https://github.com/user-attachments/assets/39215942-8b3e-4601-b286-833eb9fc6f07" />
 
 2.游戏运行画面
-左侧是背包的收集物栏，显示目前的收集情况（分别有木材Log、石头Stone、玉米Corn、番茄Tomato、鸡蛋Egg、牛奶Milk）
-下方是角色的工具栏，显示当前的工具。每个工具对应不同的事件（砍伐Axe、耕地Tilling、浇水Watering、播种玉米Corn、播种番茄Tomato）
-右上角是时间状态栏，显示当天天数和具体时间。下方还配有加速键
+
+左侧是背包的收集物栏，显示目前的收集情况（分别有木材Log、石头Stone、玉米Corn、番茄Tomato、鸡蛋Egg、牛奶Milk）；
+
+下方是角色的工具栏，显示当前的工具。每个工具对应不同的事件（砍伐Axe、耕地Tilling、浇水Watering、播种玉米Corn、播种番茄Tomato）；
+
+右上角是时间状态栏，显示当天天数和具体时间。下方还配有加速键。
+
 <img width="1686" height="993" alt="image" src="https://github.com/user-attachments/assets/7378bbf8-3a6c-4d2d-90e6-e86a3e609c9c" />
 
 3.动物NPC（鸡、牛）自由导航，自由切换形态（行走Walk,待机Idle）
