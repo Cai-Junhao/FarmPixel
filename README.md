@@ -62,6 +62,25 @@ cromptails-1/
 4. 运行游戏：点击编辑器右上角的「播放」按钮启动游戏
 
 
+## 游戏界面展示
+1.游戏主页面（START, SABE, EXIT）
+<img width="1698" height="989" alt="image" src="https://github.com/user-attachments/assets/39215942-8b3e-4601-b286-833eb9fc6f07" />
+
+2.游戏运行画面
+左侧是背包的收集物栏，显示目前的收集情况（分别有木材Log、石头Stone、玉米Corn、番茄Tomato、鸡蛋Egg、牛奶Milk）
+下方是角色的工具栏，显示当前的工具。每个工具对应不同的事件（砍伐Axe、耕地Tilling、浇水Watering、播种玉米Corn、播种番茄Tomato）
+右上角是时间状态栏，显示当天天数和具体时间。下方还配有加速键
+<img width="1686" height="993" alt="image" src="https://github.com/user-attachments/assets/7378bbf8-3a6c-4d2d-90e6-e86a3e609c9c" />
+
+3.动物NPC（鸡、牛）自由导航，自由切换形态（行走Walk,待机Idle）
+<img width="1705" height="996" alt="image" src="https://github.com/user-attachments/assets/928bb540-3013-4635-98c7-b892bc779e3b" />
+
+4.农作物（小麦、番茄）随时间切换形态（播种Seed，萌发Germination,生长Vegetative,繁殖Reproduction,成熟Mautrity,收获Harvesting）
+
+<img width="465" height="287" alt="image" src="https://github.com/user-attachments/assets/546659c9-9a31-48ca-b0a2-a012f720715b" />
+
+
+
 ## 未来发展方向
 1. **玩法扩展**：新增畜牧养殖全流程（动物喂养、产物收集、棚舍升级）、渔业系统（钓鱼、鱼塘养殖）、节日活动（如丰收节任务、限定作物），丰富核心玩法维度
 2. **生态构建**：开发 Mod 支持框架，允许第三方开发者通过配置文件新增作物、NPC、场景与任务；搭建开源素材资源库，提供像素素材模板与脚本插件；探索多人联机模式（局域网合作种植、好友农场互访、交易市场）。
