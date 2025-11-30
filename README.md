@@ -83,7 +83,13 @@ cromptails-1/
 
 <img width="465" height="287" alt="image" src="https://github.com/user-attachments/assets/546659c9-9a31-48ca-b0a2-a012f720715b" />
 
+## 注意事项
 
+1. 确保安装Godot 4.3 版本引擎
+2. 游戏运行若出现 UI 显示异常，可在 Godot 编辑器中重新导入assets/ui目录下的字体 / 素材资源
+3. 项目中像素素材（如assets/game/objects下的大体积帧动画）、地图瓦片文件通过 Git LFS 管理，拉取仓库前需先安装 Git LFS 并执行 git lfs install，再克隆仓库
+4. 若拉取后发现素材缺失，可执行 git lfs pull 手动同步 LFS 资源；若资源引用失效，在 Godot 编辑器中右键assets目录选择「重新导入所有资源」
+5. 内置像素素材、字体资源仅用于项目演示，若用于商业发布，需替换为自有版权资源
 
 ## 未来发展方向
 1. **玩法扩展**：新增畜牧养殖全流程（动物喂养、产物收集、棚舍升级）、渔业系统（钓鱼、鱼塘养殖）、节日活动（如丰收节任务、限定作物），丰富核心玩法维度
